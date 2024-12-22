@@ -3,7 +3,7 @@
 손실된 이미지의 특정 영역을 복구하고 흑백 이미지에 적합한 색을 입혀 원본과 유사한 이미지를 재창조하는 알고리즘 개발 
 
 ## 🔥 시도 
-* [Image Inpainting SOTA Model](https://paperswithcode.com/sota/image-inpainting-on-places2-1)
+[Image Inpainting SOTA Model](https://paperswithcode.com/sota/image-inpainting-on-places2-1)
 
 **시도1** 
 
